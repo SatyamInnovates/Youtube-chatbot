@@ -33,7 +33,7 @@ def render_transcript(final_text):
     <div style="
         height:400px;
         overflow-y:auto;
-        background:#1a1d26;
+        background:#12990a;
         padding:10px;
         border-radius:10px;
     ">
